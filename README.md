@@ -9,49 +9,38 @@ Para mostrar su utilización escribí dos ejemplos el primero compara las entrad
     </p>
     <h3>Validando del lado del servidor (Server side)</h3>
     <p align="justify">El primer ejemplo muestra la utilización de este control del lado del servidor (server-side).</p>
-    <div><b>Fig 1. El código del control CustomValidator del lado del servidor.</b></div><br>
+    <div><b>Fig 1. El programa con el control CustomValidator en ejecucción.</b></div><br>
     <div>
-<IMG src="picture_library/CustomValidator/codeServer.png">
+<IMG src="images/fig0.png">
 </div><br>
-    <div><b>Fig 2. El programa con el control CustomValidator en ejecucción.</b></div><br>
+    <div><b>Fig 2. El programa ejecutando las validaciones correspondientes.</b></div><br>
     <div>
-<IMG src="picture_library/CustomValidator/fig0.png">
+<IMG src="images/fig1.png">
 </div><br>
-    <div><b>Fig 3. El programa ejecutando las validaciones correspondientes.</b></div><br>
+    <div><b>Fig 3. Las validaciones requeridas fueron correctas.</b></div><br>
     <div>
-<IMG src="picture_library/CustomValidator/fig1.png">
-</div><br>
-    <div><b>Fig 4. Las validaciones requeridas fueron correctas.</b></div><br>
-    <div>
-<IMG src="picture_library/CustomValidator/fig2.png">
+<IMG src="images/fig2.png">
 </div><br>
     <h3>Validando del lado del cliente (Client side)</h3>
     <p align="justify">
       El segundo ejemplo muestra las validaciones del lado del cliente (client-side), para este ejemplo es importante escribir antes que nada las funciones en JavaScript que servirán para hacer la validación, y que se utilizan en la propiedad <b>ClientValidationFunction</b>. 
     </p>
-    <div><b>Fig 5. Las funciones JavaScript que efectuán la validación.</b></div><br>
+    <br>
+    <div><b>Fig 4. El programa ejecutando una de las validaciones.</b></div><br>
     <div>
-<IMG src="picture_library/CustomValidator/codeJS.png">
+<IMG src="images/fig3.png">
 </div><br>
-    <div><b>Fig 6. El código del control CustomValidator del lado del cliente.</b></div><br>
+    <div><b>Fig 5. El programa ejecutando ambas validaciones.</b></div><br>
     <div>
-<IMG src="picture_library/CustomValidator/codeClient.png">
+<IMG src="images/fig4.png">
 </div><br>
-    <div><b>Fig 7. El programa ejecutando una de las validaciones.</b></div><br>
+    <div><b>Fig 6. El programa muestra un popup indicando que las validaciones son correctas.</b></div><br>
     <div>
-<IMG src="picture_library/CustomValidator/fig3.png">
+<IMG src="images/fig5.png">
 </div><br>
-    <div><b>Fig 8. El programa ejecutando ambas validaciones.</b></div><br>
+    <div><b>Fig 7. El programa muestra un mensaje indicando que las validaciones son correctas.</b></div><br>
     <div>
-<IMG src="picture_library/CustomValidator/fig4.png">
-</div><br>
-    <div><b>Fig 9. El programa muestra un popup indicando que las validaciones son correctas.</b></div><br>
-    <div>
-<IMG src="picture_library/CustomValidator/fig5.png">
-</div><br>
-    <div><b>Fig 10. El programa muestra un mensaje indicando que las validaciones son correctas.</b></div><br>
-    <div>
-<IMG src="picture_library/CustomValidator/fig6.png">
+<IMG src="images/fig6.png">
 </div><br>
     <p align="justify">La siguiente tabla muestra algunas propiedades del control.</p>
     <table border="1">
